@@ -21,7 +21,7 @@ function PnlCalculator() {
 
     return (
         <div>
-            <h1>Profit & Loss Calculator</h1>
+            <h1>Profit & Loss Calculator // 16/12/2024 vlad</h1>
             <div>
                 <label>CAPEX:</label>
                 <input
