@@ -1,6 +1,5 @@
-{"build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build"
-
-  {"name": "profit-loss-calculator",
+{
+  "name": "profit-loss-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +11,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
