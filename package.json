@@ -35,6 +35,8 @@
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.25.9",
-    "eslint": "^9.17.0"
+    "@babel/plugin-proposal-private-property-in-object": "^7.17.10",
+    "eslint": "^9.17.0",
+    "eslint-config-react-app": "^7.0.1"
   }
 }
